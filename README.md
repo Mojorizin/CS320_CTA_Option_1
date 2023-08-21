@@ -1,4 +1,4 @@
-This is a repository for all Critical Thinking Assignments and Portfolio Project for CS320 - CSU Global Fall Semester 2023.
+Below are the details and requirments of each application.
 
 -----------------------------------------------------------------------------------------------------------------------------
 1) Module 1 critical thinking assignment - option 1:
