@@ -1,6 +1,6 @@
-This is a repository for all of the assigned Critial Thinking assignments for CS320 - CSU Global.
+This is a repository for all Critical Thinking Assignments and Portfolio Project for CS320 - CSU Global Fall Semester 2023.
 
---------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 1) Module 1 critical thinking assignment - option 1:
   - Create a simple Java application that prints the following information for a fictional person on indidivual lines.
       > First Name
@@ -8,4 +8,4 @@ This is a repository for all of the assigned Critial Thinking assignments for CS
       > Street Address
       > City
       > Zip Code
---------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
