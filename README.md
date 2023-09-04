@@ -17,3 +17,12 @@ Below are the details and requirments of each application.
       > Incomes greater than/equal to $1500 and less than $2500: tax rate 20%
       > Incomes greater than/equal to $2500: tax rate 30%
 -----------------------------------------------------------------------------------------------------------------------------
+
+3) Module 4 critical thinkingn assignment - option 2: 
+  - Write a program that will provide important statistics for the grades in a class.
+  - The program will utilize a for-loop to read ten floating-point grades from user input.
+  - Include code to prevent an endless loop. Ask the user to enter the values, then print the following data:
+    > Average
+    > Maximum
+    > Minimum
+-----------------------------------------------------------------------------------------------------------------------------
